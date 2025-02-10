@@ -1,9 +1,9 @@
 # DevOps Assignment 1 – Mastering Git and GitHub
 
-Course: CS-328 – DevOps (Spring 2025)
-Instructor: Muhammad Ahmad Nawaz
-Student Name: Hassaan Shah
-Roll Number: 2022385
+- Course: CS-328 – DevOps (Spring 2025)
+- Instructor: Muhammad Ahmad Nawaz
+- Student Name: Hassaan Shah
+- Roll Number: 2022385
 
 ### Objective
 
